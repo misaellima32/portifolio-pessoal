@@ -1,3 +1,8 @@
 <template>
-  <b-card>Cursos</b-card>
+  <b-card>Contato</b-card>
 </template>
+<script>
+export default {
+  layout: 'navbar'
+}
+</script>
